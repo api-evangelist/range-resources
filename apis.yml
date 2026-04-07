@@ -1,7 +1,12 @@
 aid: range-resources
-url: https://raw.githubusercontent.com/api-evangelist/range-resources/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/range-resources/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.range-resources.com
+description: >-
+  Range Resources is an independent natural gas, natural gas liquids, and oil company
+  engaged in the exploration, development, and acquisition of natural gas and oil
+  properties primarily in the Appalachian region.
