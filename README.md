@@ -1,11 +1,41 @@
-# Range Resources
+# Range Resources (range-resources)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Range Resources.
+Range Resources is an independent natural gas, natural gas liquids, and oil company engaged in the exploration, development, and acquisition of natural gas and oil properties primarily in the Appalachian region. Range does not publish a public developer API; this index tracks the company's public-facing digital properties for reference.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/range-resources/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+
+## Tags
+
+- Energy
+- Natural Gas
+- Oil and Gas
+- Appalachian
+- Exploration and Production
+
+## Timestamps
+
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public developer API has been documented for Range Resources. Check back for updates as the company's digital footprint evolves.
 
-## Properties
+## Common Properties
 
-- [Website](https://www.range-resources.com)
+- [Website](https://www.rangeresources.com/)
+- [Investor Relations](https://ir.rangeresources.com/)
+- [News](https://ir.rangeresources.com/news-events/press-releases)
+- [Sustainability](https://www.rangeresources.com/sustainability)
+- [Careers](https://www.rangeresources.com/careers)
+- [Contact](https://www.rangeresources.com/contact)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
