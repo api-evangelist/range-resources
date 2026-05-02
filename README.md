@@ -19,7 +19,7 @@ Range Resources is an independent natural gas, natural gas liquids, and oil comp
 ## Timestamps
 
 - **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+- **Modified:** 2026-05-02
 
 ## APIs
 
@@ -33,6 +33,7 @@ No public developer API has been documented for Range Resources. Check back for 
 - [Sustainability](https://www.rangeresources.com/sustainability)
 - [Careers](https://www.rangeresources.com/careers)
 - [Contact](https://www.rangeresources.com/contact)
+- [Vocabulary](vocabulary/range-resources-vocabulary.yml)
 
 ## Maintainers
 

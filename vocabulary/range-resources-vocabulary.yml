@@ -1,0 +1,145 @@
+---
+name: Range Resources Vocabulary
+description: >-
+  Domain vocabulary for Range Resources Corporation, an independent natural gas,
+  natural gas liquids, and oil company focused on exploration, development, and
+  acquisition of properties in the Appalachian region.
+created: "2026-05-02"
+modified: "2026-05-02"
+tags:
+  - Energy
+  - Natural Gas
+  - Oil and Gas
+  - Appalachian
+  - Exploration and Production
+
+terms:
+  - term: Exploration and Production
+    definition: >-
+      The upstream oil and gas business segment involving the search for (exploration)
+      and extraction of (production) petroleum resources from subsurface reservoirs.
+      Range Resources is an E&P company focused on Appalachian natural gas.
+    abbreviation: E&P
+    synonyms:
+      - Upstream
+    related:
+      - Natural Gas
+      - Natural Gas Liquids
+      - Appalachian Basin
+
+  - term: Natural Gas
+    definition: >-
+      A hydrocarbon gas mixture primarily composed of methane, extracted from geological
+      formations. Natural gas is Range Resources' primary commodity, produced from
+      the Marcellus and Utica shale formations in the Appalachian region.
+    related:
+      - Natural Gas Liquids
+      - Marcellus Shale
+      - Appalachian Basin
+
+  - term: Natural Gas Liquids
+    definition: >-
+      Hydrocarbon components separated from natural gas during processing, including
+      ethane, propane, butane, and natural gasoline. NGLs are a secondary commodity
+      for Range Resources alongside dry natural gas.
+    abbreviation: NGLs
+    related:
+      - Natural Gas
+      - Exploration and Production
+
+  - term: Appalachian Basin
+    definition: >-
+      A geological basin extending from New York to Alabama along the Appalachian
+      Mountains. Range Resources' operations are concentrated in the southwestern
+      Pennsylvania portion of this basin, targeting the Marcellus Shale formation.
+    related:
+      - Marcellus Shale
+      - Natural Gas
+
+  - term: Marcellus Shale
+    definition: >-
+      A Middle Devonian-age black shale formation found throughout much of the
+      Appalachian Basin. The Marcellus is one of the largest natural gas fields in
+      North America and is Range Resources' primary production target.
+    related:
+      - Appalachian Basin
+      - Natural Gas
+      - Hydraulic Fracturing
+
+  - term: Utica Shale
+    definition: >-
+      An Ordovician-age shale formation underlying the Marcellus Shale in the
+      Appalachian Basin. Range Resources holds Utica acreage in addition to its
+      primary Marcellus positions.
+    related:
+      - Marcellus Shale
+      - Natural Gas
+
+  - term: Hydraulic Fracturing
+    definition: >-
+      A well stimulation technique in which pressurized fluid is injected into a
+      wellbore to create fractures in the rock formation, allowing oil and gas to
+      flow more freely to the surface. Hydraulic fracturing is essential for
+      producing from shale formations like the Marcellus.
+    synonyms:
+      - Fracking
+      - Fracing
+    related:
+      - Marcellus Shale
+      - Horizontal Drilling
+
+  - term: Horizontal Drilling
+    definition: >-
+      A directional drilling technique in which the wellbore is turned to run
+      horizontally through a target formation. Combined with hydraulic fracturing,
+      horizontal drilling maximizes contact with shale reservoirs.
+    related:
+      - Hydraulic Fracturing
+      - Natural Gas
+
+  - term: Proved Reserves
+    definition: >-
+      Estimated quantities of hydrocarbons that geological and engineering data
+      demonstrate with reasonable certainty to be recoverable under existing economic
+      and operating conditions. Proved reserves are a key financial metric for E&P companies.
+    synonyms:
+      - Proven Reserves
+    related:
+      - Exploration and Production
+      - Natural Gas
+
+  - term: Acreage
+    definition: >-
+      Land area under lease or ownership that an E&P company holds for drilling
+      and production. Range Resources holds net acreage in the Marcellus and Utica
+      shale plays in southwestern Pennsylvania and West Virginia.
+    related:
+      - Exploration and Production
+      - Marcellus Shale
+
+  - term: Gathering and Processing
+    definition: >-
+      Midstream infrastructure that collects natural gas from wellheads via gathering
+      pipelines and processes it to remove impurities and separate NGLs before
+      delivery to transmission pipelines.
+    related:
+      - Natural Gas
+      - Natural Gas Liquids
+
+  - term: Investor Relations
+    definition: >-
+      The corporate function managing communication between Range Resources and its
+      shareholders, analysts, and the investment community. Range's IR portal provides
+      SEC filings, earnings releases, presentations, and stock information.
+    related:
+      - Annual Report
+      - SEC Filing
+
+  - term: ESG
+    definition: >-
+      Environmental, Social, and Governance criteria used by investors and stakeholders
+      to evaluate a company's sustainability and societal impact. Range Resources
+      publishes an annual sustainability report covering emissions, water management,
+      and community impact.
+    related:
+      - Sustainability
