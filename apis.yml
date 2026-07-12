@@ -22,6 +22,8 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/range-resources-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/range-resources
   - type: Website
@@ -38,6 +40,8 @@ common:
     url: https://www.rangeresources.com/contact
   - type: Vocabulary
     url: vocabulary/range-resources-vocabulary.yml
+  - type: Blog
+    url: https://www.rangeresources.com/feed/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
