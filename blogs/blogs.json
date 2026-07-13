@@ -1,0 +1,13 @@
+{
+  "repo": "range-resources",
+  "feeds": [
+    {
+      "source": "https://www.rangeresources.com/feed/",
+      "feed_url": "https://www.rangeresources.com/feed/",
+      "title": "Range Resources",
+      "saved": 26
+    }
+  ],
+  "fetched": "2026-07-11T11:43:46Z",
+  "post_count": 60
+}
