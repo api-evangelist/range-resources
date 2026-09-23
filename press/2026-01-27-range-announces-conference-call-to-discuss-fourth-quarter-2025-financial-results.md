@@ -1,7 +1,9 @@
 ---
 title: Range Announces Conference Call to Discuss Fourth Quarter 2025 Financial Results
 url: https://www.rangeresources.com/range-announces-conference-call-to-discuss-fourth-quarter-2025-financial-results/
-date: '2026-01-27'
+published: ''
+date_basis: harvested
+harvested: '2026-01-27'
 author: npompeani
 feed_url: http://www.rangeresources.com/news/feed
 ---

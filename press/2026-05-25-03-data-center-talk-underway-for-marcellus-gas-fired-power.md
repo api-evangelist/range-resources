@@ -1,7 +1,9 @@
 ---
 title: Data Center Talk Underway for Marcellus Gas-fired Power
 url: https://www.hartenergy.com/exclusives/range-confirms-data-center-talk-underway-marcellus-gas-fired-power-210885/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Range Resources" press release artificial intelligence'
 position: 3
 source: serpapi-google

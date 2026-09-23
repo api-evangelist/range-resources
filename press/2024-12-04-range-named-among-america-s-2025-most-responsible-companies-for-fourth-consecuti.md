@@ -2,7 +2,9 @@
 title: Range Named Among America’s 2025 Most Responsible Companies for Fourth Consecutive
   Year
 url: https://www.rangeresources.com/range-named-among-americas-2025-most-responsible-companies-for-fourth-consecutive-year/
-date: '2024-12-04'
+published: ''
+date_basis: harvested
+harvested: '2024-12-04'
 author: npompeani
 feed_url: http://www.rangeresources.com/news/feed
 ---

@@ -1,7 +1,9 @@
 ---
 title: 2000 Turkeys Food Drive Kicks Off on Wednesday, November 20, 2024
 url: https://www.rangeresources.com/2000-turkeys-food-drive-kicks-off-on-wednesday-november-20-2024/
-date: '2024-11-14'
+published: ''
+date_basis: harvested
+harvested: '2024-11-14'
 author: npompeani
 feed_url: http://www.rangeresources.com/news/feed
 ---

@@ -1,7 +1,9 @@
 ---
 title: Range Resources Corporation (RRC) Q1 2026 Earnings ...
 url: https://seekingalpha.com/article/4892899-range-resources-corporation-rrc-q1-2026-earnings-call-transcript
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Range Resources" press release artificial intelligence'
 position: 5
 source: serpapi-google

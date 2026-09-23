@@ -2,7 +2,9 @@
 title: Range Named One of America’s 2026 Most Responsible Companies for Fifth Consecutive
   Year
 url: https://www.rangeresources.com/range-named-among-americas-2026-most-responsible-companies-for-fifth-consecutive-year/
-date: '2025-12-15'
+published: ''
+date_basis: harvested
+harvested: '2025-12-15'
 author: npompeani
 feed_url: http://www.rangeresources.com/news/feed
 ---

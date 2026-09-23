@@ -1,7 +1,9 @@
 ---
 title: Range Announces Third Quarter 2025 Results
 url: https://www.rangeresources.com/range-announces-third-quarter-2025-results/
-date: '2025-10-28'
+published: ''
+date_basis: harvested
+harvested: '2025-10-28'
 author: npompeani
 feed_url: http://www.rangeresources.com/news/feed
 ---

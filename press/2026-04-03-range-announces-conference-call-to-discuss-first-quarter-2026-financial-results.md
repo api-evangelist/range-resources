@@ -1,7 +1,9 @@
 ---
 title: Range Announces Conference Call to Discuss First Quarter 2026 Financial Results
 url: https://www.rangeresources.com/range-announces-conference-call-to-discuss-first-quarter-2026-financial-results/
-date: '2026-04-03'
+published: ''
+date_basis: harvested
+harvested: '2026-04-03'
 author: npompeani
 feed_url: http://www.rangeresources.com/news/feed
 ---

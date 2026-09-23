@@ -1,7 +1,9 @@
 ---
 title: Range Hosts Secretary of Interior, Chairman National Energy Dominance Council
 url: https://www.rangeresources.com/range-hosts-secretary-of-interior-chairman-national-energy-dominance-council/
-date: '2025-04-04'
+published: ''
+date_basis: harvested
+harvested: '2025-04-04'
 author: npompeani
 feed_url: http://www.rangeresources.com/news/feed
 ---

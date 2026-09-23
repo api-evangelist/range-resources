@@ -1,7 +1,9 @@
 ---
 title: Range Resources Receives 2026 Pittsburgh Excellence in Ethics Award
 url: https://www.rangeresources.com/range-resources-receives-2026-pittsburgh-excellence-in-ethics-award/
-date: '2026-02-17'
+published: ''
+date_basis: harvested
+harvested: '2026-02-17'
 author: npompeani
 feed_url: http://www.rangeresources.com/news/feed
 ---

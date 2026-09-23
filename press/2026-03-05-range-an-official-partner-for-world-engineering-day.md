@@ -1,7 +1,9 @@
 ---
 title: Range an Official Partner for World Engineering Day
 url: https://www.rangeresources.com/range-resources-an-official-partner-for-world-engineering-day-for-sustainable-development-2026-an-international-day-proclaimed-by-unesco/
-date: '2026-03-05'
+published: ''
+date_basis: harvested
+harvested: '2026-03-05'
 author: npompeani
 feed_url: http://www.rangeresources.com/news/feed
 ---

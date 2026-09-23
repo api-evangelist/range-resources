@@ -1,7 +1,9 @@
 ---
 title: Range Declares Quarterly Dividend
 url: https://www.rangeresources.com/range-declares-quarterly-dividend-6/
-date: '2024-11-29'
+published: ''
+date_basis: harvested
+harvested: '2024-11-29'
 author: npompeani
 feed_url: http://www.rangeresources.com/news/feed
 ---
