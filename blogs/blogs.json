@@ -2,15 +2,28 @@
   "repo": "range-resources",
   "feeds": [
     {
+      "source": "https://www.rangeresources.com/news/",
+      "feed_url": "https://www.rangeresources.com/news/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://www.rangeresources.com/news/feed/",
+      "feed_url": "https://www.rangeresources.com/news/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.rangeresources.com/feed/",
       "feed_url": "https://www.rangeresources.com/feed/",
-      "title": "Range Resources",
+      "title": "",
       "saved": 0,
-      "nature": "undetermined",
-      "nature_basis": null
+      "method": "feed"
     }
   ],
-  "fetched": "2026-10-03T12:15:37Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 61,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
